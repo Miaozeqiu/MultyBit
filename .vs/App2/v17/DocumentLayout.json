@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\processespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\processespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\processespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\processespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\app2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\app2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\settingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\settingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\demo_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\demo_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\demo_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\demo_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\models\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\models\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\app2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\app2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|c:\\users\\administrator\\project\\program\\c#\\app2\\app2\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2384481B-4FAA-4384-A09F-AA68C4C284C2}|App2\\App2.csproj|solutionrelative:app2\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 317,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\ProcessesPage.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\ProcessesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\ProcessesPage.xaml.cs",
+              "RelativeToolTip": "App2\\ProcessesPage.xaml.cs",
+              "ViewState": "AQIAAGsEAAAAAAAAAAAAAIoEAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:08:48.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\MainWindow.xaml",
+              "RelativeToolTip": "App2\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T07:01:14.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\HomePage.xaml.cs",
+              "RelativeToolTip": "App2\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:38:11.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\ProcessesPage.xaml",
+              "RelativeDocumentMoniker": "App2\\ProcessesPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\ProcessesPage.xaml",
+              "RelativeToolTip": "App2\\ProcessesPage.xaml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T11:35:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "App2\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\Package.appxmanifest",
+              "RelativeToolTip": "App2\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-07-06T10:39:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App.xaml",
+              "RelativeDocumentMoniker": "App2\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App.xaml",
+              "RelativeToolTip": "App2\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T07:00:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App.xaml.cs",
+              "RelativeToolTip": "App2\\App.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:12:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\SettingPage.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\SettingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\SettingPage.xaml.cs",
+              "RelativeToolTip": "App2\\SettingPage.xaml.cs",
+              "ViewState": "AQIAAMIBAAAAAAAAAAAAAEoCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:01:00.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App2.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App2.csproj",
+              "RelativeDocumentMoniker": "App2\\App2.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App2.csproj",
+              "RelativeToolTip": "App2\\App2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T10:08:39.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\HomePage.xaml",
+              "RelativeDocumentMoniker": "App2\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\HomePage.xaml",
+              "RelativeToolTip": "App2\\HomePage.xaml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T07:01:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:37:55.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\SettingPage.xaml",
+              "RelativeDocumentMoniker": "App2\\SettingPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\SettingPage.xaml",
+              "RelativeToolTip": "App2\\SettingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T07:00:19.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "App2\\CustomControl1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\CustomControl1.cs",
+              "RelativeToolTip": "App2\\CustomControl1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:22:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeToolTip": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAIAywEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:30:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProcessesPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs",
+              "RelativeToolTip": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\ProcessesPage.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:05:50.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "demo_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\demo_window.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\demo_window.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\demo_window.xaml.cs",
+              "RelativeToolTip": "App2\\demo_window.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:09:15.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "demo_window.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\demo_window.xaml",
+              "RelativeDocumentMoniker": "App2\\demo_window.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\demo_window.xaml",
+              "RelativeToolTip": "App2\\demo_window.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T06:06:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\Models\\MyViewModel.cs",
+              "RelativeDocumentMoniker": "App2\\Models\\MyViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\Models\\MyViewModel.cs",
+              "RelativeToolTip": "App2\\Models\\MyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:32:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "demo_window.g.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs",
+              "RelativeToolTip": "App2\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\demo_window.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:12:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "RelativeToolTip": "App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:46:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ToolTip": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ViewState": "AQIAAOYBAAAAAAAAAAAAAPgBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-06T10:02:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\app.manifest",
+              "RelativeDocumentMoniker": "App2\\app.manifest",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\app.manifest",
+              "RelativeToolTip": "App2\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-07-05T07:00:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SettingPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs",
+              "RelativeToolTip": "App2\\obj\\x64\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\SettingPage.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:54:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App2",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App2.csproj",
+              "RelativeDocumentMoniker": "App2\\App2.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\App2.csproj",
+              "RelativeToolTip": "App2\\App2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T07:03:16.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "RelativeToolTip": "App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\App.g.i.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvx4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:09:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingsPage.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs",
+              "ToolTip": "C:\\Users\\Administrator\\project\\program\\c#\\App2\\App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs",
+              "RelativeToolTip": "App2\\obj\\x64\\Release\\net6.0-windows10.0.19041.0\\win10-x64\\SettingsPage.g.i.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:17:08.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
