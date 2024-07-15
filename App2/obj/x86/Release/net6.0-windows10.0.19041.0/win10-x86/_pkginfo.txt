@@ -1,0 +1,1 @@
+C:\Users\Administrator\project\program\c#\App2\App2\bin\x86\Release\net6.0-windows10.0.19041.0\win10-x86\AppPackages\App2_1.0.3.0_x86_Test\App2_1.0.3.0_x86.msix
